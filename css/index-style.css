@@ -4,11 +4,13 @@ main {
     padding-bottom: 20px;
     padding-left: 10px;
     padding-right: 10px;
-    font-size: 16px;
 }
 main h2 {
     padding-top: 20px;
     padding-bottom: 20px;
+}
+main section {
+	font-size: 16px;
 }
 main .flag {
     text-align: center;
